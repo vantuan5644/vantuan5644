@@ -27,3 +27,4 @@ Please visit my [personal website](https://vantuan5644.github.io/) for more info
 
 ### 📦 Checkout my team's latest projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vantuan5644&repo=MRI-Pulse-Sequence)](https://pypi.org/project/brainmri-ps/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhkhiem28&repo=EfficientDet-Pipeline)](https://github.com/lhkhiem28/EfficientDet-Pipeline)
