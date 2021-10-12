@@ -8,10 +8,10 @@
 </p>
 
 
-<p href="#">
+<!-- <p href="#">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vantuan5644&count_private=true&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
 </p>
-
+ -->
 ### Welcome to my GitHub 👋
 
 ![](https://img.shields.io/badge/-Python-3626e3?style=flat-square&logo=Python&logoColor=fff)
