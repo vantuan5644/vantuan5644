@@ -24,8 +24,3 @@ Please visit my [personal website](https://vantuan5644.github.io/) for more info
 - 🔭 My curiosity about how things work has led me to the field of Machine Learning
 - 🌱 I’m experienced in Computer Vision and Natural Language Processing 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vantuan5644/)
-
-### 📦 Checkout my team's latest projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vantuan5644&repo=MRI-Pulse-Sequence)](https://pypi.org/project/brainmri-ps/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhkhiem28&repo=EfficientDet-Pipeline)](https://github.com/lhkhiem28/EfficientDet-Pipeline)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huyhieupham&repo=learning-from-multiple-annotators)](https://github.com/huyhieupham/learning-from-multiple-annotators)
