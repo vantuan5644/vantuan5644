@@ -18,9 +18,3 @@
 ![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
 ![](https://img.shields.io/badge/-TensorFlow-e39b26?style=flat-square&logo=TensorFlow&logoColor=fff)
 
-
-Please visit my [personal website](https://vantuan5644.github.io/) for more information
-
-- 🔭 My curiosity about how things work has led me to the field of Machine Learning
-- 🌱 I’m experienced in Computer Vision and Natural Language Processing 
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vantuan5644/)
